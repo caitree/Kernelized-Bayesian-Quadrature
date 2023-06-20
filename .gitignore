@@ -1,0 +1,16 @@
+.DS_Store
+./BQ_code/__pycache__
+./BQ_code/.ipynb_checkpoints/
+
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.gz
+*.bcf
+*.xml
+.DS_Store
+*.pyc
